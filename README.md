@@ -44,3 +44,20 @@ X3D
 ### Testbed 14
 
 https://github.com/opengeospatial/D040-Complex_Feature_Handling_Engineering_Report
+
+API: http://steinbeis-3dps.eu:8080/tb14/API/index.html
+
+WFS 3.0  – part: …/collections/collections-id/…
+Collections-id can follow the CityGML modules such as building, vegetation, etc
+3DPS part: …/collections/collections-id/scene/…
+Followed by 3DPS specific parameters
+Implementation: 
+Façade of the existing 3DPS Server of Fraunhofer IGD (Testbed 13)
+
+Request URL: 
+http://steinbeis-3dps.eu:8080/tb14/wfs3/3D_CityModel_manhattan/collections/buildings/scene?format=application/json&bbox=-73.99562241015136,40.72227595290325,-73.9799164993194,40.749273379993284
+
+
+Response Tileset: 
+http://tb13.igd.fraunhofer.de:8083/3dps/datahoster/fc38b549-4989-4703-bb27-f5b4fd33fd90/manhattan/tileset.json
+
