@@ -98,3 +98,6 @@ https://www.youtube.com/watch?v=3nHOvJMaKIs&list=PLQsQNjNIDU86srQjXLMB9dcSRiwQPN
 http://vp2-2017.3dmaps.ch/
 
 see presentation of Martin Christen, OGC TC meeting Dec 2018
+
+## Test data sets 
+https://github.com/opengeospatial/3DPS
