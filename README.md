@@ -70,9 +70,15 @@ http://www.itowns-project.org/
 ## 3DPS and WFS 3.0
 ### Testbed 14
 
-https://github.com/opengeospatial/D040-Complex_Feature_Handling_Engineering_Report
+OGC Testbed 14 Complex feature handling ER has been published. It includes a prototype showing WFS 3.0 and 3D Portrayal Open API.
+http://docs.opengeospatial.org/per/18-021.html 
 
-API: http://steinbeis-3dps.eu:8080/tb14/API/index.html
+(and on github: https://github.com/opengeospatial/D040-Complex_Feature_Handling_Engineering_Report)
+
+the API: http://steinbeis-3dps.eu:8080/tb14/API/index.html …
+demo online: http://81.169.187.7:8081/3DPS_App/
+on youtube: https://youtu.be/3nHOvJMaKIs?list=PLQsQNjNIDU86srQjXLMB9dcSRiwQPNtfv
+
 
 WFS 3.0  – part: …/collections/collections-id/…
 Collections-id can follow the CityGML modules such as building, vegetation, etc
@@ -88,8 +94,6 @@ http://steinbeis-3dps.eu:8080/tb14/wfs3/3D_CityModel_manhattan/collections/build
 Response Tileset: 
 http://tb13.igd.fraunhofer.de:8083/3dps/datahoster/fc38b549-4989-4703-bb27-f5b4fd33fd90/manhattan/tileset.json
 
-Demo video:
-https://www.youtube.com/watch?v=3nHOvJMaKIs&list=PLQsQNjNIDU86srQjXLMB9dcSRiwQPNtfv&index=4&t=0s
 
 
 ## get View
