@@ -6,6 +6,14 @@ In Testbed 14, a first prototype of 3D Portrayal and WFS 3.0 using OpenAPI has b
 https://www.opengeospatial.org/standards/3dp (approved May 2016)
 Specifies queries that enable both web-based image based (conformance class view) and scene graph based (conformance class scene) rendering of 3D environments. It does NOT specify a data delivery format. 
 
+## open source implementation of a 3DPS (conformance class scene)
+
+A first open source implementation of the 3D Portrayal Service has been launched. It is a an early stage, not all parameters are supported yet, but it is a good starting point. 
+
+https://gitlab.com/ThunthepS/3DPortrayalServiceNodeJS/
+
+The implementation was done by Joe Thunyathep Santhanavanich and Athanasios Koukofikis, both PhD students at HFT Stuttgart.
+
 ## data delivery format of 3D Portrayal Service getScene request:
 
 ### 3D Tiles community standard (Feb 2019)
